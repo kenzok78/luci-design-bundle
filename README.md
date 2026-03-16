@@ -5,6 +5,8 @@ This repository bundles two OpenWrt LuCI projects into one tree:
 - `luci-theme-design`
 - `luci-app-design-config`
 
+Integration instructions: `OPENWRT_INTEGRATION.md`
+
 ## Included Fixes
 
 ### luci-theme-design
