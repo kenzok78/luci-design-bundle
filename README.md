@@ -18,7 +18,6 @@ Integration instructions: `OPENWRT_INTEGRATION.md`
   - escaped regex input,
   - replaced array `for...in` with index loop,
   - added null-safe href checks.
-- Fixed README release link typo (`hhttps://` -> `https://`).
 
 ### luci-app-design-config
 
