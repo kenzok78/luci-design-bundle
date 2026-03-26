@@ -3,16 +3,16 @@
     LuCI design theme for OpenWrt
   </h1>
 <a href="/LICENSE">
-    <img src="https://img.shields.io/github/license/gngpp/luci-theme-design?style=flat&a=1" alt="">
+    <img src="https://img.shields.io/github/license/kenzok78/luci-theme-design?style=flat&a=1" alt="">
   </a>
-  <a href="https://github.com/gngpp/luci-theme-design/pulls">
+  <a href="https://github.com/kenzok78/luci-theme-design/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="">
-  </a><a href="https://github.com/gngpp/luci-theme-design/issues/new">
+  </a><a href="https://github.com/kenzok78/luci-theme-design/issues/new">
     <img src="https://img.shields.io/badge/Issues-welcome-brightgreen.svg?style=flat">
-  </a><a href="https://github.com/gngpp/luci-theme-design/releases">
-    <img src="https://img.shields.io/github/release/gngpp/luci-theme-design.svg?style=flat">
-  </a><a href="https://github.com/gngpp/luci-theme-design/releases">
-    <img src="https://img.shields.io/github/downloads/gngpp/luci-theme-design/total?style=flat&?">
+  </a><a href="https://github.com/kenzok78/luci-theme-design/releases">
+    <img src="https://img.shields.io/github/release/kenzok78/luci-theme-design.svg?style=flat">
+  </a><a href="https://github.com/kenzok78/luci-theme-design/releases">
+    <img src="https://img.shields.io/github/downloads/kenzok78/luci-theme-design/total?style=flat&?">
   </a>
 </div>
 <br>
@@ -24,7 +24,7 @@
 - main支持lede源码的lua版本
 - js分支开始由[papagaye744](https://github.com/papagaye744)维护
 
-- 你可以使用[插件](https://github.com/gngpp/luci-app-design-config)定义一些设置
+- 你可以使用[插件](https://github.com/kenzok78/luci-app-design-config)定义一些设置
   - 支持更改主题深色/浅色模式
   - 支持显示/隐藏导航栏
   - 支持更换常用的代理图标
@@ -46,7 +46,7 @@
 
 ```
 git clone https://github.com/kenzok78/luci-theme-design.git  package/luci-theme-design
-make menuconfig # choose LUCI->Theme->Luci-theme-design  
+make menuconfig # 选择 LUCI->Theme->luci-theme-design  
 make V=s
 ```
 
