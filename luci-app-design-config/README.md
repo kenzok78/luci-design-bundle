@@ -1,8 +1,8 @@
 <div align="center">
-  </a><a href="https://github.com/kenzok78/luci-app-design-config/releases">
-    <img src="https://img.shields.io/github/release/kenzok78/luci-app-design-config.svg?style=flat">
-  </a><a href="https://github.com/kenzok78/luci-app-design-config/releases">
-    <img src="https://img.shields.io/github/downloads/kenzok78/luci-app-design-config/total?style=flat">
+  </a><a href="https://github.com/kenzok78/luci-design-bundle/releases">
+    <img src="https://img.shields.io/github/release/kenzok78/luci-design-bundle.svg?style=flat">
+  </a><a href="https://github.com/kenzok78/luci-design-bundle/releases">
+    <img src="https://img.shields.io/github/downloads/kenzok78/luci-design-bundle/total?style=flat">
   </a>
 </div>
 <br>
@@ -18,7 +18,7 @@ Design 主题配置插件
 ### 编译
 
 ```
-git clone https://github.com/kenzok78/luci-app-design-config.git package/luci-app-design-config
+git clone https://github.com/kenzok78/luci-design-bundle.git package/luci-app-design-config
 make menuconfig # 选择 LUCI->Applications->luci-app-design-config
 make V=s
 ```
